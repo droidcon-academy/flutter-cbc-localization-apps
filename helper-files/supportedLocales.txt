@@ -1,0 +1,4 @@
+supportedLocales: [
+        Locale('en'), // English
+        Locale('hi'), // Hindi
+      ]

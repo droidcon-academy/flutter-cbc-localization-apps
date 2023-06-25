@@ -1,0 +1,11 @@
+
+
+
+
+// Open Internationalization screen 
+Navigator.push(context, MaterialPageRoute(builder: (context) => Internationalization(title: "Internationalization Example")));
+
+
+
+// Open Localization screen 
+Navigator.push(context, MaterialPageRoute(builder: (context) => Localization()));

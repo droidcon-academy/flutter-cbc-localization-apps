@@ -1,0 +1,7 @@
+{
+    "helloWorld": "Hola Mundo",
+    "loginScreenTitle": "Acceso",
+    "enterEmail": "Ingrese su identificación de correo electrónico",
+    "enterPassword": "Ingresa tu contraseña",
+    "loginButton": "Acceso"
+}
