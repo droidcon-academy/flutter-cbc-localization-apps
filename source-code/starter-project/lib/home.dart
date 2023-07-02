@@ -27,8 +27,7 @@ class _HomeState extends State<Home> {
               width: 300,
               height: 50,
               child: InkWell(child: Center(child: Text("Internationalization Example", style: TextStyle(color: Colors.white),),), onTap: (){
-                
-				
+
               },),
             ),
             SizedBox(height: 10,),

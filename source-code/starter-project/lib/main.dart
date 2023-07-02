@@ -19,16 +19,6 @@ class MyApp extends StatelessWidget {
       ),
       //home: const Internationalization(title: 'Internationlization Example'),
       home: Home(title: "Multilingual App"),
-      localizationsDelegates: [
-        AppLocalizations.delegate, // Add this line
-        GlobalMaterialLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-        GlobalCupertinoLocalizations.delegate,
-      ],
-      supportedLocales: [
-        Locale('en'), // English
-        Locale('hi'), // Spanish
-      ],
     );
   }
 }
